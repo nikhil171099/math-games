@@ -1,4 +1,3 @@
 The list of images are :
 
 1) logo.png
-2) c-lang.png
