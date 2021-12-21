@@ -10,27 +10,127 @@ by me from scrach. Here are the links for the youtube video for each game situta
 
 1)  Streaks in a coin toss                                                    : https://www.youtube.com/watch?v=DntEoGG7RyY&t=426s
 
+In this game, a coin is flipped 200 times and it's streaks are observed, i.e., we check if there are more
+than a set number of heads and tails that occur one after another. The streaks observed are 5, 6, 7, 8, and 9.
+The thing explained above is one simulation! This is simulated 10 million times and the probability for each
+of the streaks are observed.
+
+
 2)  Coin toss doubler game (Infinite money paradox or St. Petersburg paradox) : https://www.youtube.com/watch?v=RBf1s4TassI&t=538s
+
+In this game, a coin is flipped and if it's a heads, the player gets 4 dollars, but if the player gets tails,
+then he gets 2 dollars. Then, this can be repeated until the player gets tails, so the potential earning is infinite.
+The thing explained above is one simulation! This is simulated 100 million times and the average earning is calculated.
+
 
 3)  Double sixes death game                                                   : https://www.youtube.com/watch?v=Uyw7d579nxY
 
+In this game, two dice are rolled, and if we get a double six, all people in the room die. If the people survive,
+then for the next round, 10 times as many people are taken in and the same process is repeated until a 
+double six is rolled. Therefore, the people in the room increase as 1, 10, 100, 1000, 10000, 100000, and so on
+The thing explained above is one simulation! This is simulated 10 million times and we find a player's odd of
+survival for any random given round, then we calculate a player's odds of death from an outsider's perspective
+and then the average number of rounds before death is found.
+
+
 4)  Googol game                                                               : https://www.youtube.com/watch?v=OeJobV4jJG0&t=333s
+
+In this game, we have 10 hidden sheets of paper with numbers in them. A player can start at sheet 1 and stop when
+the player feels that the one the player stopped on is the highest number. Here, two methods are compared, one
+being the random method and one being the optimal stopping strategy. In this strategy, we first flip 10/e number
+of sheets (4 sheets) and stop at the sheet first sheet that provides higher number than any in the 4 sheet.
+The thing explained above is one simulation! This is simulated 10 million times and we find a player's odds of
+winning using random stopping and compare it to the player's odds of winning using optimal stopping strategy.
+
 
 5)  Humble Nishiyama card game                                                : https://www.youtube.com/watch?v=s4tyO4V2im8&t=532s
 
+In this game, a deck of card is shuffled and player1 chooses an order of three cards like RRR, RBR, BBB and so on.
+for the given player1 order, player 2 chooses an order of his own. In the random one, he picks a random order and
+according to the Humble Nishiyama order, player 2 chooses a specific order where the first card is the opposite of
+player 1's middle card and the rest two are the first and second card of player 1's cards. Ex: for RBR it is RRB.
+The thing explained above is one simulation! This is simulated 10 million times and we find a player's odds of
+winning using random choice and compare it to the player's odds of winning using Humble Nishiyama strategy.
+
+
 6)  Martingale's solution                                                     : https://www.youtube.com/watch?v=DntEoGG7RyY&t=426s
+
+In this game, a game is played with a stake and which had a 50%% chance of winning. If the player looses, then
+the player has to double the stakes until a profit is made or the player is bankrupt. The stakes go like 1, 2, 4, 8, etc.
+The thing explained above is one simulation! This is simulated 100 million times and we find the averge number of
+turns before earning a profit using Martingale's solution. Then the number of bankrupcies and it's percentage are calculated.
+
 
 7)  Miltersen's 100 boxes game                                                : https://www.youtube.com/watch?v=kOnEEeHZp94
 
+In this game, there are 100 boxes numbered and each box has a unique number between 1 and 100. Then, the first player has
+to find player 1's number (i.e., 1) in one of the boxes. Player 1 can only open 50 boxes and after the process, all the
+boxes are closed and player 1 is taken away so that no future player is informed of the location. This process is repeated
+for the next 99 players. The group succeeds if all manage to find their number within 50 tries. There is a random search
+method and the other method is Miltersen's cycle. In this method, a player first opens the box number corresponding to the
+player's number and the number in the box is the next box number the player opens until the player finds the player number.
+The thing explained above is one simulation! This is simulated 40 thousand times and we find the success percentage
+using random method and compare it to the percentage of success using miltersen's cycle.
+
+
 8)  Monty hall game (Monty Hall Paradox)                                      : https://www.youtube.com/watch?v=kJzSzGbfc0k
+
+In this game, there are 3 boxes. One contains a million dollars and the other two are empty. First, a player has to choose
+one of the three boxes. Then, one other box that doesn't contain anything is shown and the player is given an option to
+keep their choice or switch boxes. Here, three cases are considered. One where the player keeps hsi first chosen box, second
+where the player always switches and third where the player randomly swithces or decides not to switch for each case.
+The thing explained above is one simulation! This is simulated 10 million times and we find the success percentage
+using random choice, no switching choice and always switching choice.
+
 
 9)  Newton Pepy's dice problem                                                : https://www.youtube.com/watch?v=RFlTawWwLZc
 
+Here, first, a set of 6 dice is thrown and checked if alteast one 6 occured. Then, a set of 12 dice is thrown and checked
+if atleast two 6s occured and then a set of 18 dice is thrown and checked if alteast three 6s occured.
+The thing explained above is one simulation! This is simulated 10 million times and we find the success percentage
+of getting one 6 in a set of 6 dice, two 6s in a set of 12 dice and three 6s in a set of 18 dice.
+
+
 10) Russian roulette                                                          : https://www.youtube.com/watch?v=Xtl9orvkDVo
+
+This program tests the percentage of success of the player who starts first to that of the second. There are three types
+of Russian roulette, one with no spin, one with spin and one with equalized spin where if one misses, then the next is
+given n+1 terms, ex 1, 2, 3, 4 where player 1 gets 1, 3, 5, 7 ... and player 2 gets 2, 4, 6, 8 ... turns until one dies.
+The thing explained above is one simulation! This is simulated 10 million times and we find the success percentage
+player 1 with respect to player 2 for each of the three games.
+
 
 11) Euler dice game (Platonia dilemma)                                        : https://www.youtube.com/watch?v=NkYCWqzBc7M
 
+This program has a situation where 20 people who are not supposed to meet each otherare sent a letter and only if
+one replies, they all get the money. There are two ways, one where each player decide by themselves whether they want
+to respond and where they use super rationality where all roll a 20 side die and only respond if they get a 1.
+The thing explained above is one simulation! This is simulated 10 million times and we find the success percentage
+for the random method and compare it to the super rational method.
+
+
 12) Bertnand gold ans silver coin box game (Bertnand's paradox)               : https://www.youtube.com/watch?v=ytfCdqWhmdg 
+
+This program has a situation where there are three boxes, one with 2 gold coins, one with two silver coins and one with
+one gold and one silver coin. We don't know the content of each box as they are closed. Then, we can opean a box at
+random and pick a coin at random. Given that the coin is gold, the question is what is the other coin? Here there are
+three sets, one that the other coin is also gold, two that the other coin is silver and three that it can be random.
+The thing explained above is one simulation! This is simulated 10 million times and we find the success percentage
+for the always same coin, always different coin and random coin.
+
+
+13) Parrondo's two games (Parrondo's paradox)                                 : https://www.youtube.com/watch?v=PpvboBJEozM
+
+This program has a situation where there are two games, game A and game B. Game a plays a classic roulette where you have
+a 49.5% chance of winning. If the player wins, player earns 1$ and by loosing, player loses 1$. Then, we look at game B where
+it has two games. If the money that the player has is a multiple of three, then the player playes game B1 where the chances
+of winning are 9.5%%. If the player wins, player earns 5$ and by loosing, player loses 5$. Else, the player plays game B2
+where the chances of winning are 74.5%%. If the player wins, player earns 3$ and by loosing, player loses 3$. The player gets
+100 tries and the final money is calculated. There are four scenarios, one where player only playes game A 100 times, two where
+player only plays game B 100 times, three where player plays game A when the money left is a multiple of 3 and game B when
+not so and finally four where player switches between game A and game B randomly and plays a total of 100 times.
+The thing explained above is one simulation! This is simulated 200 thousand times and we find the earning percentage
+for each of the four cases.
 
 
 Enjoy the games!
