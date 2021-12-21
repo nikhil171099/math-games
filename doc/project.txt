@@ -1,0 +1,41 @@
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Welcome to the information page!
+
+This project contains 12 mathematical paradoxes and optimization solutions simulated a lot of times in pure C code.
+All the paradoxes and situations are present in vsauce2 channel. There are twelve in total. The code has been made 
+by me from scrach. Here are the links for the youtube video for each game situtation:
+
+
+1)  Streaks in a coin toss                                                    : https://www.youtube.com/watch?v=DntEoGG7RyY&t=426s
+
+2)  Coin toss doubler game (Infinite money paradox or St. Petersburg paradox) : https://www.youtube.com/watch?v=RBf1s4TassI&t=538s
+
+3)  Double sixes death game                                                   : https://www.youtube.com/watch?v=Uyw7d579nxY
+
+4)  Googol game                                                               : https://www.youtube.com/watch?v=OeJobV4jJG0&t=333s
+
+5)  Humble Nishiyama card game                                                : https://www.youtube.com/watch?v=s4tyO4V2im8&t=532s
+
+6)  Martingale's solution                                                     : https://www.youtube.com/watch?v=DntEoGG7RyY&t=426s
+
+7)  Miltersen's 100 boxes game                                                : https://www.youtube.com/watch?v=kOnEEeHZp94
+
+8)  Monty hall game (Monty Hall Paradox)                                      : https://www.youtube.com/watch?v=kJzSzGbfc0k
+
+9)  Newton Pepy's dice problem                                                : https://www.youtube.com/watch?v=RFlTawWwLZc
+
+10) Russian roulette                                                          : https://www.youtube.com/watch?v=Xtl9orvkDVo
+
+11) Euler dice game (Platonia dilemma)                                        : https://www.youtube.com/watch?v=NkYCWqzBc7M
+
+12) Bertnand gold ans silver coin box game (Bertnand's paradox)               : https://www.youtube.com/watch?v=ytfCdqWhmdg 
+
+
+Enjoy the games!
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+                                                                                                                                                                       
+
